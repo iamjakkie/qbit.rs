@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-numbrs = { path = "../numb.rs/"}
+numbrs = { git = "https://github.com/iamjakkie/numb.rs", branch = "main" }
